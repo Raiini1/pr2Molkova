@@ -1,0 +1,6 @@
+.vs/
+App.config
+Properties/
+PR1Molkova.csproj
+PR1Molkova.cln
+obj/
